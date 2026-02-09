@@ -3,6 +3,17 @@
 A tiny WiFi-controlled scrolling text sign using a HUZZAH Feather ESP8266 and the Adafruit NeoPixel FeatherWing 4x8 (NeoMatrix).  
 Set the message from a web page or Serial, customize per-letter colors, and rename the device (hostname) from the web UI. Settings are saved to EEPROM and the device supports mDNS (`http://devicename.local/`).
 
+## Demo Video
+
+🎥 **YouTube Demo:** https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE
+
+## Battery Stand (3D Print)
+
+Want a clean, stable setup? I made a matching stand for an LP503035 battery.
+
+🧩 **Printables:** https://www.printables.com/model/1592202-feathermarquee-lp503035-battery-stand  
+📦 **STL included:** `./stl/FeatherMarquee_LP503035_Battery_Stand.stl`
+
 ## Features
 
 - Scroll a text message on a 4x8 NeoPixel matrix
