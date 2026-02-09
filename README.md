@@ -12,7 +12,6 @@ Set the message from a web page or Serial, customize per-letter colors, and rena
 Want a clean, stable setup? I made a matching stand for an LP503035 battery.
 
 🧩 **Printables:** https://www.printables.com/model/1592202-feathermarquee-lp503035-battery-stand  
-📦 **STL included:** `./stl/FeatherMarquee_LP503035_Battery_Stand.stl`
 
 ## Features
 
