@@ -5,7 +5,7 @@ Set the message from a web page or Serial, customize per-letter colors, and rena
 
 ## Demo Video
 
-🎥 **YouTube Demo:** https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE
+🎥 **YouTube Demo:** https://www.youtube.com/shorts/VOLrx4vGLnM
 
 ## Battery Stand (3D Print)
 
